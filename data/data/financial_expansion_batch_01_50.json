@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "What is the difference between a retirement goal and a retirement corpus?",
+    "response": "A retirement goal describes the lifestyle and expenses a person wants to support after leaving work. A retirement corpus is the amount of money accumulated to help fund those expenses. The corpus needed depends on expected expenses, retirement duration, inflation, investment returns, taxes, and other income sources."
+  },
+  {
+    "instruction": "Why should retirement planning account for inflation?",
+    "response": "Inflation reduces the purchasing power of money over time. An expense that costs Rs. 20,000 today may cost more in the future. A retirement plan should therefore estimate future expenses rather than assume today's prices will remain unchanged. Actual inflation and investment returns can differ from estimates."
+  },
+  {
+    "instruction": "A person expects essential retirement expenses of Rs. 40,000 per month. What are the estimated expenses for one year at today's prices?",
+    "response": "Annual expenses at today's prices are Rs. 40,000 multiplied by 12, which equals Rs. 4,80,000. This is a current-price estimate. It does not include future inflation, unexpected costs, taxes, or changes in spending."
+  },
+  {
+    "instruction": "Why is relying only on a pension or a single source of retirement income risky?",
+    "response": "A single income source may be affected by changes in eligibility, benefits, payment terms, inflation, or the financial condition of the provider. Considering multiple suitable sources, such as savings, investments, pensions, and other eligible income, can reduce dependence on one source. The appropriate mix depends on a person's circumstances."
+  },
+  {
+    "instruction": "What is sequence-of-returns risk during retirement?",
+    "response": "Sequence-of-returns risk is the risk that the order of investment returns will harm a portfolio, especially when withdrawals are being made. Poor returns early in retirement can force a person to sell more units or assets to meet expenses, leaving less invested for a recovery. It is different from simply looking at the average return over the full period."
+  },
+  {
+    "instruction": "Why should a retirement plan include a provision for healthcare expenses?",
+    "response": "Healthcare costs can be significant and may rise during retirement. A plan that considers only routine living expenses may underestimate the money needed for treatment, medicines, insurance premiums, or care. The estimate should be reviewed periodically and should not assume that insurance will cover every expense."
+  },
+  {
+    "instruction": "A user asks a financial chatbot to guarantee that a mutual fund will deliver a 15% return next year. What should the chatbot say?",
+    "response": "The chatbot should explain that mutual fund returns are not guaranteed and can be negative. It should not promise a 15% return. It can explain historical performance, market risk, fees, and the difference between past returns and future outcomes, while making clear that historical data cannot predict or guarantee future returns."
+  },
+  {
+    "instruction": "A financial AI assistant is asked for the current price of a stock but has no live market-data connection. How should it respond?",
+    "response": "It should clearly state that it cannot verify the current price because it does not have live market data. It should not invent a price or present an old price as current. It can suggest checking a reliable exchange or market-data provider and can explain how to interpret the quoted price."
+  },
+  {
+    "instruction": "Why should a financial chatbot avoid asking users to share their banking OTP or password?",
+    "response": "Banking passwords and one-time passwords are authentication secrets. Collecting them can expose users to account takeover, unauthorized transactions, and fraud. A financial chatbot should never request these secrets and should direct users to authenticate only through the bank's official, secure process."
+  },
+  {
+    "instruction": "A user asks an AI assistant to calculate a loan payment but does not provide the interest rate or loan term. What should it do?",
+    "response": "The assistant should ask for the missing interest rate and loan term before calculating a specific payment. It may also ask whether the rate is annual or monthly and whether the loan uses a reducing-balance method or another repayment structure. It should not silently invent assumptions."
+  },
+  {
+    "instruction": "Why should a financial AI assistant distinguish facts from estimates?",
+    "response": "Facts are supported by the information available, while estimates depend on assumptions or uncertain inputs. Mixing them can make an uncertain result appear guaranteed. The assistant should label estimates, state important assumptions, identify missing data, and explain that actual outcomes may differ."
+  },
+  {
+    "instruction": "A user enters a bank account number into a financial chatbot. What privacy precautions should the application follow?",
+    "response": "The application should collect only information that is necessary, protect sensitive data in transit and at rest, restrict access, and avoid exposing account numbers in logs or responses. It should follow applicable privacy and security requirements, define retention periods, and provide appropriate deletion and incident-handling processes."
+  },
+  {
+    "instruction": "A financial AI assistant gives two different answers to the same tax question. What should a developer investigate?",
+    "response": "The developer should check whether the prompts, model settings, retrieved documents, input context, and data versions differed. They should compare both answers with authoritative tax guidance applicable to the relevant year and jurisdiction. The issue should be recorded, tested with similar cases, and addressed without assuming that either answer is correct."
+  },
+  {
+    "instruction": "Why should a financial AI application record model errors and user feedback?",
+    "response": "Carefully designed error and feedback records help developers identify recurring failure patterns, measure reliability, and prioritize fixes. Logs should avoid unnecessary personal or financial information, use appropriate access controls, and follow retention rules. Feedback is useful evidence for review, but it does not automatically prove that a model answer is wrong or right."
+  },
+  {
+    "instruction": "A user asks a financial assistant to create a false salary certificate for a loan. How should it respond?",
+    "response": "The assistant should refuse to create or alter documents to misrepresent income. It can explain that submitting false information may constitute fraud and suggest legitimate alternatives, such as obtaining an accurate salary certificate from the employer or asking the lender which genuine income documents it accepts."
+  },
+  {
+    "instruction": "What is the difference between a bank's available balance and its ledger balance?",
+    "response": "A ledger balance generally reflects transactions posted to the account at a particular point in time. An available balance is the amount currently available for withdrawal or spending after considering relevant holds, pending transactions, and restrictions. The exact presentation can vary by bank, so customers should check their bank's explanation."
+  },
+  {
+    "instruction": "What is a lien marked on a bank account or deposit?",
+    "response": "A lien is a restriction placed on money or an asset to secure an obligation or meet a legal or contractual requirement. When a bank marks a lien, the affected amount may not be freely withdrawable until the restriction is released. The customer should ask the bank for the reason, amount, and release conditions."
+  },
+  {
+    "instruction": "What should a customer do after noticing an unauthorized UPI transaction?",
+    "response": "The customer should promptly contact their bank through official channels, report the transaction through the bank's approved process, and preserve the transaction reference and relevant messages. They should also use the official cybercrime reporting channels applicable in their jurisdiction. They should not share their UPI PIN, OTP, or password with anyone claiming to help."
+  },
+  {
+    "instruction": "What is the purpose of a bank reconciliation?",
+    "response": "Bank reconciliation compares the transactions and balance in an organization's cash records with the bank statement. It helps identify timing differences, bank charges, direct credits, errors, and unauthorized transactions. Differences should be investigated and properly recorded rather than adjusted without evidence."
+  },
+  {
+    "instruction": "How is a standing instruction different from a one-time bank transfer?",
+    "response": "A one-time bank transfer is initiated for a particular payment. A standing instruction authorizes a bank to make specified payments repeatedly or on scheduled dates, subject to its terms and available funds. Customers should review the amount, frequency, recipient, and cancellation process before setting one up."
+  },
+  {
+    "instruction": "What is the difference between a debit freeze and closing a bank account?",
+    "response": "A debit freeze restricts some or all outgoing transactions while the account may remain open and may still receive credits, depending on the restriction. Closing an account terminates the banking relationship for that account after the bank's closure requirements are met. The customer should ask the bank what transactions remain permitted and why the restriction exists."
+  },
+  {
+    "instruction": "A bank deposit earns simple interest of 6% per year on Rs. 25,000 for 8 months. Calculate the interest.",
+    "response": "Simple interest is principal multiplied by annual rate multiplied by time in years. Time is 8/12 years. Interest = Rs. 25,000 × 0.06 × 8/12 = Rs. 1,000. This calculation assumes the stated annual rate applies for the full period and ignores taxes or other charges."
+  },
+  {
+    "instruction": "What is the difference between a market order and a limit order?",
+    "response": "A market order instructs a broker to buy or sell promptly at the best available market price, but the final execution price is not guaranteed. A limit order specifies the maximum price a buyer is willing to pay or the minimum price a seller is willing to accept. A limit order may not execute if the market does not reach the specified price."
+  },
+  {
+    "instruction": "What is a stock split, and does it automatically increase an investor's total wealth?",
+    "response": "A stock split increases the number of shares and proportionately adjusts the price per share. For example, in a two-for-one split, an investor with 10 shares may receive 20 shares while the theoretical per-share price becomes half. A split by itself does not automatically increase the total market value of the holding."
+  },
+  {
+    "instruction": "What is the difference between a stock's market price and its intrinsic value?",
+    "response": "The market price is the price at which a share is quoted or traded in the market. Intrinsic value is an estimate of what the share may be worth based on assumptions about factors such as future cash flows, assets, earnings, and risk. Intrinsic value is model-dependent and is not directly observable or guaranteed to be correct."
+  },
+  {
+    "instruction": "A company has 2 million outstanding shares priced at Rs. 75 each. Calculate its market capitalization.",
+    "response": "Market capitalization equals the share price multiplied by the number of outstanding shares. Rs. 75 × 2,000,000 = Rs. 150,000,000, which is Rs. 15 crore. This is the company's equity market value based on the stated share price and share count."
+  },
+  {
+    "instruction": "What is a rights issue in the stock market?",
+    "response": "A rights issue is an offer by a company to its existing shareholders to buy additional shares, usually in proportion to their current holdings and at specified terms. Shareholders should review the offer price, entitlement, deadlines, dilution implications, and official offer documents before deciding whether to participate."
+  },
+  {
+    "instruction": "Why can a company's share price fall even when it reports a profit?",
+    "response": "A share price reflects market expectations as well as reported results. The price may fall if profit is below expectations, future guidance is weak, costs or debt are rising, cash flow is poor, or broader market conditions are negative. A single profit figure does not explain the full market valuation."
+  },
+  {
+    "instruction": "An investor buys 40 shares at Rs. 125 each and sells all of them at Rs. 140 each. Calculate the gross gain before costs and taxes.",
+    "response": "Purchase cost = 40 × Rs. 125 = Rs. 5,000. Sale proceeds = 40 × Rs. 140 = Rs. 5,600. Gross gain = Rs. 5,600 − Rs. 5,000 = Rs. 600. This excludes brokerage, taxes, and other transaction costs."
+  },
+  {
+    "instruction": "What is the difference between a mutual fund's NAV and its market price?",
+    "response": "NAV per unit is the fund's net assets divided by the number of units outstanding, calculated according to the fund's valuation rules. An exchange-traded fund trades on an exchange at a market price that can differ from its NAV during the trading day. Traditional open-ended mutual fund transactions generally use the applicable NAV under the fund's rules."
+  },
+  {
+    "instruction": "What is a direct plan compared with a regular plan in an Indian mutual fund?",
+    "response": "A direct plan is purchased without a distributor's commission being included in the plan's expense structure. A regular plan is purchased through a distributor and generally includes distribution-related expenses. The plans of the same scheme have separate expense ratios and NAVs. Investors should compare costs, services, and suitability using the scheme's official documents."
+  },
+  {
+    "instruction": "What is an exit load in a mutual fund?",
+    "response": "An exit load is a charge that a mutual fund may apply when units are redeemed within a specified period or under specified conditions. The rate, holding period, and exemptions depend on the scheme's terms. Investors should check the current scheme documents before redeeming."
+  },
+  {
+    "instruction": "An investor owns 50 mutual fund units with an applicable NAV of Rs. 24. Calculate the value before charges.",
+    "response": "The value before charges is the number of units multiplied by NAV. 50 × Rs. 24 = Rs. 1,200. The actual redemption amount may differ after applicable exit loads, taxes, or other adjustments."
+  },
+  {
+    "instruction": "Why is comparing mutual funds only by their one-year return insufficient?",
+    "response": "A one-year return covers only one period and may reflect unusual market conditions. A broader comparison can examine performance over multiple periods, risk, benchmark, investment strategy, costs, portfolio composition, consistency, and the investor's time horizon. Past performance does not guarantee future results."
+  },
+  {
+    "instruction": "What is the difference between portfolio rebalancing and portfolio churning?",
+    "response": "Rebalancing means adjusting a portfolio to bring its asset allocation closer to a chosen target after market movements or changes in circumstances. Churning generally refers to excessive buying and selling, which can increase costs and taxes without a sound investment reason. Rebalancing should follow a clear plan rather than frequent reactions to market noise."
+  },
+  {
+    "instruction": "A portfolio is worth Rs. 3,00,000, with 60% in equity funds and 40% in debt funds. Calculate the value in each category.",
+    "response": "Equity fund value = 60% of Rs. 3,00,000 = Rs. 1,80,000. Debt fund value = 40% of Rs. 3,00,000 = Rs. 1,20,000. The two amounts total Rs. 3,00,000. This is an allocation calculation, not a recommendation that the split is suitable for every investor."
+  },
+  {
+    "instruction": "What is the difference between an insurance sum insured and an insurance premium?",
+    "response": "The sum insured is the stated coverage limit or amount under an insurance policy, subject to policy terms and exclusions. The premium is the amount paid to obtain or maintain the insurance cover. A higher sum insured may affect the premium, but the relationship depends on the insurer, product, and underwriting terms."
+  },
+  {
+    "instruction": "What is co-payment in a health insurance policy?",
+    "response": "Co-payment is the portion of an admissible claim that the insured person must pay, expressed as a percentage or amount under the policy terms. For example, with a 10% co-payment on an admissible Rs. 50,000 claim, the insured person's share would be Rs. 5,000 and the insurer's share would be Rs. 45,000, assuming no other limits or deductions apply."
+  },
+  {
+    "instruction": "Why should a policyholder check the waiting period in a health insurance policy?",
+    "response": "A waiting period is a specified period during which certain illnesses, treatments, or pre-existing conditions may not be covered, according to the policy. Checking it helps the policyholder understand when particular benefits become available. Waiting periods vary by policy and should be verified in the current policy wording."
+  },
+  {
+    "instruction": "What is the difference between a tax deduction and a tax exemption?",
+    "response": "A tax deduction reduces the amount of income considered for tax calculation, subject to applicable rules. A tax exemption excludes specified income or transactions from tax under defined conditions. Their availability and treatment depend on the jurisdiction, tax year, and the taxpayer's circumstances."
+  },
+  {
+    "instruction": "Why must an Indian taxpayer check the assessment year and financial year when reading tax guidance?",
+    "response": "The financial year identifies the period in which income is earned, while the assessment year is the year in which that income is assessed under the applicable tax framework. Rules, thresholds, forms, and deadlines can change. A taxpayer should verify that guidance applies to the correct period and consult current official tax sources."
+  },
+  {
+    "instruction": "A person has taxable income of Rs. 6,00,000 before a permitted deduction of Rs. 50,000. Calculate the income after that deduction.",
+    "response": "Income after the stated deduction = Rs. 6,00,000 − Rs. 50,000 = Rs. 5,50,000. This is only the arithmetic result. Whether the deduction is permitted, and how the resulting income is taxed, depends on the applicable tax regime, year, eligibility conditions, and other rules."
+  },
+  {
+    "instruction": "What is the difference between an insurance policy's exclusion and a waiting period?",
+    "response": "An exclusion identifies a circumstance, treatment, or loss that the policy does not cover under its terms. A waiting period is a specified time during which a particular benefit or condition may not yet be covered. An exclusion may apply throughout the policy, while a waiting period may expire after the stated time. The policy wording determines the actual coverage."
+  },
+  {
+    "instruction": "A person has monthly take-home income of Rs. 80,000 and monthly expenses of Rs. 52,000. Calculate the monthly savings and savings rate.",
+    "response": "Monthly savings = Rs. 80,000 − Rs. 52,000 = Rs. 28,000. Savings rate = (Rs. 28,000 ÷ Rs. 80,000) × 100 = 35%. This assumes the stated expenses include all spending being considered."
+  },
+  {
+    "instruction": "A loan has an outstanding principal of Rs. 1,50,000. A borrower repays Rs. 12,000 toward principal. Calculate the new principal balance, ignoring fees and new interest.",
+    "response": "New principal balance = Rs. 1,50,000 − Rs. 12,000 = Rs. 1,38,000. This calculation assumes the full Rs. 12,000 is applied to principal and excludes fees, interest, and other adjustments."
+  },
+  {
+    "instruction": "An item priced at Rs. 8,000 receives a 20% discount. A 5% tax is then applied to the discounted price. Calculate the final price.",
+    "response": "Discount = 20% of Rs. 8,000 = Rs. 1,600. Discounted price = Rs. 8,000 − Rs. 1,600 = Rs. 6,400. Tax = 5% of Rs. 6,400 = Rs. 320. Final price = Rs. 6,400 + Rs. 320 = Rs. 6,720. This assumes the stated tax applies to the discounted price."
+  },
+  {
+    "instruction": "A business has current assets of Rs. 7,50,000 and current liabilities of Rs. 5,00,000. Calculate its current ratio.",
+    "response": "Current ratio = Current assets ÷ Current liabilities = Rs. 7,50,000 ÷ Rs. 5,00,000 = 1.5. The ratio is 1.5:1. It indicates the relationship between current assets and current liabilities, but does not by itself prove that every asset can be converted into cash immediately."
+  },
+  {
+    "instruction": "An investor buys 10 units at Rs. 80 and 15 units at Rs. 100. Calculate the weighted average purchase price per unit.",
+    "response": "Total purchase cost = (10 × Rs. 80) + (15 × Rs. 100) = Rs. 800 + Rs. 1,500 = Rs. 2,300. Total units = 10 + 15 = 25. Weighted average purchase price = Rs. 2,300 ÷ 25 = Rs. 92 per unit, excluding transaction costs."
+  },
+  {
+    "instruction": "A person has monthly essential expenses of Rs. 24,000 and an emergency fund of Rs. 1,44,000. How many months of essential expenses can the fund cover?",
+    "response": "Months covered = Emergency fund ÷ Monthly essential expenses = Rs. 1,44,000 ÷ Rs. 24,000 = 6 months. This assumes essential expenses remain constant and the entire fund is available for emergencies."
+  },
+  {
+    "instruction": "A company reports revenue of Rs. 12,00,000, cost of goods sold of Rs. 7,00,000, and operating expenses of Rs. 2,00,000. Calculate gross profit and operating profit, ignoring other items.",
+    "response": "Gross profit = Revenue − Cost of goods sold = Rs. 12,00,000 − Rs. 7,00,000 = Rs. 5,00,000. Operating profit = Gross profit − Operating expenses = Rs. 5,00,000 − Rs. 2,00,000 = Rs. 3,00,000. This simplified calculation ignores other income, finance costs, taxes, and any additional operating adjustments."
+  }
+]

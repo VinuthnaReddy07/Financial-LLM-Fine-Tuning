@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "local-financial-education-llm"
+version = "0.1.0"
+description = "Local dataset, training, evaluation, and inference tools for a financial education model."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "VinuthnaReddy07" }]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "torch>=2.2,<3",
+    "transformers>=5,<6",
+    "peft>=0.10,<1",
+    "scikit-learn>=1.4,<2",
+    "fastapi>=0.110,<1",
+    "uvicorn[standard]>=0.29,<1",
+    "streamlit>=1.33,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+
+[project.urls]
+Repository = "https://github.com/VinuthnaReddy07/Financial-LLM-Fine-Tuning"
+Issues = "https://github.com/VinuthnaReddy07/Financial-LLM-Fine-Tuning/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["financial_llm*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

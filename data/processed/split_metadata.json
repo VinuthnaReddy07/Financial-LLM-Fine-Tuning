@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "similarity_threshold": 0.8,
+  "group_count": 297,
+  "split_sizes": {
+    "train": 238,
+    "validation": 30,
+    "test": 30
+  },
+  "group_counts": {
+    "train": 237,
+    "validation": 30,
+    "test": 30
+  },
+  "dataset_sha256": "8de3e1134f8799a3c75379147e8fe3680076cf9c334e9901e7ca63e4160b1bb0",
+  "source": "data\\validated\\financial_dataset_v1.json"
+}

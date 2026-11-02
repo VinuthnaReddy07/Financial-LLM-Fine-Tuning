@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "What is the principal amount?",
+    "response": "The principal is the original amount of money deposited, invested, or borrowed before interest is added."
+  },
+  {
+    "instruction": "What is a dividend?",
+    "response": "A dividend is a portion of a company's profits distributed to its shareholders, subject to the company's dividend policy."
+  },
+  {
+    "instruction": "What is a bear market?",
+    "response": "A bear market is a market period characterized by a significant and sustained decline in asset prices and generally negative investor sentiment."
+  },
+  {
+    "instruction": "What is investment volatility?",
+    "response": "Volatility describes how much and how frequently an asset's price changes over a period. Higher volatility indicates larger price fluctuations."
+  },
+  {
+    "instruction": "What is net worth?",
+    "response": "Net worth is the difference between the total value of a person's assets and the total value of their liabilities."
+  },
+  {
+    "instruction": "What is the difference between a stock and a bond?",
+    "response": "A stock represents partial ownership in a company; its price can rise or fall, and dividends are not guaranteed. A bond is debt issued by a company, government, or other entity. A bond's payment and repayment terms depend on its documents; some bonds pay periodic interest and others do not. Both can involve loss and different risks."
+  },
+  {
+    "instruction": "What is the difference between a debit card and a credit card?",
+    "response": "A debit card generally deducts money directly from the linked bank account when a transaction is completed. A credit card allows the cardholder to borrow money from the card issuer up to an approved credit limit. Credit card balances must be repaid according to billing terms, and unpaid balances may attract interest and fees. Debit cards use available bank funds, while credit cards involve borrowing."
+  },
+  {
+    "instruction": "A person wants to purchase an expensive phone using a credit card EMI. What should they consider before purchasing?",
+    "response": "They should examine the total repayment amount, interest rate, processing fees, taxes, repayment period, and any conditions attached to a no-cost EMI offer. They should also consider their existing obligations and whether the monthly payment fits their budget. A lower monthly payment does not necessarily mean a lower total cost."
+  },
+  {
+    "instruction": "A person notices that their bank account balance is decreasing every month despite receiving a regular salary. What should they investigate?",
+    "response": "They should compare monthly income with spending and examine recurring payments, subscriptions, loan EMIs, bank charges, and discretionary purchases. Reviewing bank statements and categorizing expenses can help identify where money is going. They can then create a budget and monitor spending regularly."
+  },
+  {
+    "instruction": "Why is diversification important in investing?",
+    "response": "Diversification means spreading investments across different assets, industries, or investment categories instead of concentrating money in one place. It can reduce the effect of poor performance from a single investment on the overall portfolio. However, diversification cannot eliminate all investment risk or guarantee a profit."
+  },
+  {
+    "instruction": "What is liquidity risk?",
+    "response": "Liquidity risk is the possibility that an asset cannot be converted into cash quickly without accepting a significant reduction in its price. For example, an asset with very few buyers may take a long time to sell. Liquidity is important because investors may need access to money when unexpected expenses occur."
+  },
+  {
+    "instruction": "Why is paying only the minimum amount due on a credit card potentially expensive?",
+    "response": "Paying only the minimum amount due may prevent the account from becoming overdue, depending on the card terms, but the remaining balance can continue to attract interest. This can increase the total repayment cost and extend the time required to clear the debt. Paying the full statement balance by the due date generally helps avoid interest on eligible purchases, subject to the card agreement."
+  },
+  {
+    "instruction": "How do a mutual fund's operating expenses affect an investor's returns?",
+    "response": "An expense ratio represents the annual operating expenses of a mutual fund as a percentage of its assets. These expenses reduce the fund's returns to investors. When comparing funds, investors can examine expense ratios along with investment strategy, risk, tracking performance, and other costs."
+  },
+  {
+    "instruction": "What is a minimum balance requirement in a bank account?",
+    "response": "A minimum balance requirement is the amount a bank may require a customer to maintain in an account. If the balance falls below the required amount, the bank may charge a penalty depending on the account terms. Some accounts have no minimum balance requirement."
+  },
+  {
+    "instruction": "What is the 50-30-20 budgeting rule?",
+    "response": "The 50-30-20 rule is a budgeting guideline that allocates approximately 50% of after-tax income to needs, 30% to wants, and 20% to savings and debt repayment. It is a general framework rather than a strict requirement. Individuals may adjust the percentages based on their circumstances."
+  },
+  {
+    "instruction": "A person receives Rs. 45,000 monthly and spends Rs. 38,000. Calculate their monthly surplus.",
+    "response": "Monthly Surplus = Monthly Income - Monthly Expenses. Monthly Surplus = Rs. 45,000 - Rs. 38,000 = Rs. 7,000. The person has Rs. 7,000 remaining before considering any additional unrecorded expenses."
+  },
+  {
+    "instruction": "What is an equity mutual fund?",
+    "response": "An equity mutual fund primarily invests in shares of companies. Its value can increase or decrease depending on the performance of its investments and market conditions. Equity funds generally involve market risk and may be more suitable for investors with an appropriate risk tolerance and investment horizon."
+  },
+  {
+    "instruction": "What is portfolio rebalancing?",
+    "response": "Portfolio rebalancing means adjusting investments to bring their proportions back toward a chosen asset allocation. For example, if equities increase and become a larger share of a portfolio than intended, an investor may review the allocation and rebalance. Rebalancing can involve transaction costs, taxes, and other considerations."
+  },
+  {
+    "instruction": "What should an investor consider before changing their portfolio allocation?",
+    "response": "An investor should review whether their financial goals, time horizon, risk tolerance, income, or financial obligations have changed. They should also examine the portfolio's current risk, diversification, transaction costs, taxes, and the reason for making the change. Short-term market movements alone may not justify a major allocation change."
+  },
+  {
+    "instruction": "A portfolio returns 12%, the risk-free rate is 4%, and the portfolio standard deviation is 10%. Calculate the Sharpe ratio.",
+    "response": "Sharpe Ratio = (Portfolio Return - Risk-Free Rate) / Standard Deviation. Sharpe Ratio = (12% - 4%) / 10% = 8% / 10% = 0.8."
+  },
+  {
+    "instruction": "A person wants to compare two mutual funds. Which factors should they examine?",
+    "response": "They can compare the funds' investment objectives, portfolio holdings, risk levels, expense ratios, benchmark performance, fund manager approach, and consistency across relevant periods. They should also consider whether each fund fits their time horizon and financial needs. Past performance does not guarantee future returns."
+  },
+  {
+    "instruction": "What is insurance?",
+    "response": "Insurance is a financial arrangement in which an insurer provides specified financial protection against covered risks in exchange for a premium. Coverage depends on the policy terms, exclusions, limits, and conditions. Insurance can help reduce the financial impact of unexpected events."
+  },
+  {
+    "instruction": "What is an emergency fund and how is it different from insurance?",
+    "response": "An emergency fund is money set aside for unexpected expenses and is generally accessible when needed. Insurance transfers specified financial risks to an insurer in exchange for premiums. An emergency fund provides immediate financial flexibility, while insurance offers protection against covered events. They serve different purposes."
+  },
+  {
+    "instruction": "A user asks a financial AI assistant to provide a guaranteed investment return. How should it respond?",
+    "response": "The assistant should explain that investment returns cannot be guaranteed for market-linked products. It should not promise a specific profit or present uncertain projections as certain outcomes. It can explain the risks, factors affecting returns, and the importance of reviewing reliable information before making financial decisions."
+  },
+  {
+    "instruction": "A financial AI assistant gives a calculation result without explaining its assumptions. Why is this a problem?",
+    "response": "A financial calculation depends on assumptions such as interest rate, compounding frequency, time period, fees, and payment timing. Without explaining these assumptions, the result may be misunderstood or applied incorrectly. The assistant should show its formula, inputs, calculation, and relevant limitations."
+  },
+  {
+    "instruction": "A user asks an AI assistant to choose between two investments but provides no information about their financial goals or risk tolerance. How should the assistant respond?",
+    "response": "The assistant should avoid making an unsupported personalized recommendation. It can explain general differences between the investments, including risks, liquidity, costs, and possible return characteristics. It should clarify that suitability depends on personal circumstances and encourage independent verification or qualified financial guidance."
+  },
+  {
+    "instruction": "What should a financial AI assistant do when it does not know the answer to a question?",
+    "response": "The assistant should clearly acknowledge uncertainty rather than inventing an answer. It can explain what information is missing, suggest reliable sources for verification, or ask a relevant clarifying question. Avoiding unsupported financial claims is important for user safety."
+  },
+  {
+    "instruction": "Why should a retirement plan include a provision for healthcare expenses?",
+    "response": "Healthcare costs can be significant and may rise during retirement. A plan that considers only routine living expenses may underestimate the money needed for treatment, medicines, insurance premiums, or care. The estimate should be reviewed periodically and should not assume that insurance will cover every expense."
+  },
+  {
+    "instruction": "Why can a company's share price fall even when it reports a profit?",
+    "response": "A share price reflects market expectations as well as reported results. The price may fall if profit is below expectations, future guidance is weak, costs or debt are rising, cash flow is poor, or broader market conditions are negative. A single profit figure does not explain the full market valuation."
+  },
+  {
+    "instruction": "What is co-payment in a health insurance policy?",
+    "response": "Co-payment is the portion of an admissible claim that the insured person must pay, expressed as a percentage or amount under the policy terms. For example, with a 10% co-payment on an admissible Rs. 50,000 claim, the insured person's share would be Rs. 5,000 and the insurer's share would be Rs. 45,000, assuming no other limits or deductions apply."
+  }
+]

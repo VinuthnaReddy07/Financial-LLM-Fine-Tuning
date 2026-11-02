@@ -1,0 +1,9 @@
+{
+  "record_count": 30,
+  "max_length": 160,
+  "min_tokens": 36,
+  "max_tokens": 105,
+  "mean_tokens": 74.96666666666667,
+  "truncated_record_numbers": [],
+  "truncated_count": 0
+}

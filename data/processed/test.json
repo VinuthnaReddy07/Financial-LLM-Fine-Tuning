@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "What is a fixed deposit?",
+    "response": "A fixed deposit is a financial product where money is deposited with a bank for a specified period at an agreed interest rate."
+  },
+  {
+    "instruction": "What is a bond?",
+    "response": "A bond is a debt instrument issued by a company, government, or other entity. Its cash flows and repayment terms are set out in the bond's terms. Some bonds pay periodic interest, while others may not; repayment of principal is subject to the issuer's obligations and the bond terms."
+  },
+  {
+    "instruction": "What is liquidity?",
+    "response": "Liquidity refers to how easily an asset can be converted into cash without significantly affecting its market value."
+  },
+  {
+    "instruction": "What is a capital gain?",
+    "response": "A capital gain is the profit realized when an asset is sold for more than its purchase cost, subject to applicable cost adjustments and tax rules."
+  },
+  {
+    "instruction": "What is a liquid asset?",
+    "response": "A liquid asset is an asset that can be converted into cash quickly with little loss in value."
+  },
+  {
+    "instruction": "What is a fixed expense?",
+    "response": "A fixed expense is a recurring cost that generally remains consistent over a particular period, such as a monthly rent payment."
+  },
+  {
+    "instruction": "What is a variable expense?",
+    "response": "A variable expense is a cost that changes depending on usage, activity, or circumstances, such as electricity or grocery spending."
+  },
+  {
+    "instruction": "A person invests Rs. 5,000 at 10% annual compound interest for 2 years. Calculate the final amount.",
+    "response": "The compound interest formula is A = P(1 + r/100)^t. Here, P = Rs. 5,000, r = 10%, and t = 2. A = 5,000 × (1.10)^2 = Rs. 6,050. The compound interest earned is Rs. 1,050."
+  },
+  {
+    "instruction": "A loan of Rs. 50,000 has an annual simple interest rate of 12%. Calculate the interest for 6 months.",
+    "response": "Simple Interest = (Principal × Rate × Time) / 100. Six months equals 0.5 years. Interest = (50,000 × 12 × 0.5) / 100 = Rs. 3,000. This calculation assumes simple interest and excludes fees or other charges."
+  },
+  {
+    "instruction": "What happens when inflation increases while savings earn a lower interest rate?",
+    "response": "When inflation is higher than the interest earned on savings, the purchasing power of the saved money decreases over time. For example, if savings earn 3% annually while prices increase by 6%, the savings balance grows in nominal terms but its purchasing power declines. Taxes and compounding can also affect the actual return."
+  },
+  {
+    "instruction": "Can an investment that provides high returns also have high risk?",
+    "response": "Yes. Investments with the possibility of high returns may also involve significant uncertainty and the possibility of large losses. However, high risk does not guarantee high returns. It is important to examine the investment's characteristics, costs, liquidity, and potential downside rather than judging it only by its expected return."
+  },
+  {
+    "instruction": "What is an overdraft facility?",
+    "response": "An overdraft facility allows an eligible bank customer to withdraw or spend more money than the available account balance, up to an approved limit. The borrowed amount may attract interest and fees. The customer should review the repayment conditions and charges before using the facility."
+  },
+  {
+    "instruction": "What is loan tenure?",
+    "response": "Loan tenure is the period agreed upon for repaying a loan. A longer tenure generally reduces the monthly EMI but may increase the total interest paid. A shorter tenure generally increases the EMI but can reduce the overall interest cost."
+  },
+  {
+    "instruction": "A person's monthly salary increases from Rs. 40,000 to Rs. 46,000. Calculate the percentage increase.",
+    "response": "Increase = Rs. 46,000 - Rs. 40,000 = Rs. 6,000. Percentage Increase = (6,000 / 40,000) × 100 = 15%."
+  },
+  {
+    "instruction": "What is market capitalization?",
+    "response": "Market capitalization is the total market value of a company's outstanding shares. It is calculated by multiplying the current share price by the number of outstanding shares. Market capitalization is commonly used to classify companies by size."
+  },
+  {
+    "instruction": "Explain rupee cost averaging.",
+    "response": "Rupee cost averaging is an approach in which an investor invests a fixed amount at regular intervals. When the unit price is lower, the fixed amount purchases more units; when the price is higher, it purchases fewer units. This can average the purchase cost over time, but it does not guarantee a profit."
+  },
+  {
+    "instruction": "What is a fund benchmark?",
+    "response": "A benchmark is a reference index or standard used to evaluate a fund's performance. For example, an equity fund may compare its returns with a relevant stock market index. The benchmark should be appropriate for the fund's investment strategy and asset category."
+  },
+  {
+    "instruction": "What is a portfolio's investment horizon?",
+    "response": "An investment horizon is the expected period for which an investor plans to keep money invested before using it. Short-term and long-term goals may require different investment approaches because market fluctuations, liquidity needs, and the time available to recover from losses can differ."
+  },
+  {
+    "instruction": "An investor purchases shares for Rs. 15,000 and sells them for Rs. 18,000. Calculate the percentage gain before costs and taxes.",
+    "response": "Capital Gain = Selling Value - Purchase Value = Rs. 18,000 - Rs. 15,000 = Rs. 3,000. Percentage Gain = (3,000 / 15,000) × 100 = 20%. This excludes transaction costs and taxes."
+  },
+  {
+    "instruction": "An investment costs Rs. 20,000 and produces a net gain of Rs. 3,000. Calculate ROI.",
+    "response": "ROI = (Net Gain / Investment Cost) × 100. ROI = (3,000 / 20,000) × 100 = 15%."
+  },
+  {
+    "instruction": "What is underinsurance?",
+    "response": "Underinsurance occurs when the coverage amount is insufficient to meet the financial loss caused by an insured event. For example, property insured for much less than its replacement value may leave the owner responsible for a large portion of the loss."
+  },
+  {
+    "instruction": "What is the difference between tax avoidance and tax evasion?",
+    "response": "In broad educational usage, tax avoidance refers to arranging affairs within rules intended to reduce tax, while tax evasion refers to unlawful conduct such as concealing income or falsifying records. The legal boundary and terminology depend on the jurisdiction, current law, and facts. Check current official tax guidance or consult a qualified tax professional; do not treat this general distinction as legal advice."
+  },
+  {
+    "instruction": "A person has Rs. 50,000 in savings. They spend Rs. 12,000 on rent, Rs. 5,000 on groceries, and Rs. 3,000 on transport. Calculate their remaining savings.",
+    "response": "Total Spending = Rs. 12,000 + Rs. 5,000 + Rs. 3,000 = Rs. 20,000. Remaining Savings = Rs. 50,000 - Rs. 20,000 = Rs. 30,000."
+  },
+  {
+    "instruction": "A person's monthly income is Rs. 70,000. They spend Rs. 42,000 and repay Rs. 8,000 in debt. Calculate the amount remaining.",
+    "response": "Total Allocations = Expenses + Debt Repayment = Rs. 42,000 + Rs. 8,000 = Rs. 50,000. Remaining Amount = Rs. 70,000 - Rs. 50,000 = Rs. 20,000. This amount can be considered for savings or other financial goals."
+  },
+  {
+    "instruction": "A user asks an AI assistant to create fake income documents for a loan application. How should it respond?",
+    "response": "The assistant should refuse to help create or falsify financial documents. It can explain that submitting false information may lead to legal and financial consequences. It can suggest preparing accurate income records and contacting the lender about legitimate documentation requirements."
+  },
+  {
+    "instruction": "A financial AI assistant gives two different answers to the same tax question. What should a developer investigate?",
+    "response": "The developer should check whether the prompts, model settings, retrieved documents, input context, and data versions differed. They should compare both answers with authoritative tax guidance applicable to the relevant year and jurisdiction. The issue should be recorded, tested with similar cases, and addressed without assuming that either answer is correct."
+  },
+  {
+    "instruction": "An investor buys 40 shares at Rs. 125 each and sells all of them at Rs. 140 each. Calculate the gross gain before costs and taxes.",
+    "response": "Purchase cost = 40 × Rs. 125 = Rs. 5,000. Sale proceeds = 40 × Rs. 140 = Rs. 5,600. Gross gain = Rs. 5,600 − Rs. 5,000 = Rs. 600. This excludes brokerage, taxes, and other transaction costs."
+  },
+  {
+    "instruction": "What is the difference between a mutual fund's NAV and its market price?",
+    "response": "NAV per unit is the fund's net assets divided by the number of units outstanding, calculated according to the fund's valuation rules. An exchange-traded fund trades on an exchange at a market price that can differ from its NAV during the trading day. Traditional open-ended mutual fund transactions generally use the applicable NAV under the fund's rules."
+  },
+  {
+    "instruction": "Why is comparing mutual funds only by their one-year return insufficient?",
+    "response": "A one-year return covers only one period and may reflect unusual market conditions. A broader comparison can examine performance over multiple periods, risk, benchmark, investment strategy, costs, portfolio composition, consistency, and the investor's time horizon. Past performance does not guarantee future results."
+  },
+  {
+    "instruction": "A portfolio is worth Rs. 3,00,000, with 60% in equity funds and 40% in debt funds. Calculate the value in each category.",
+    "response": "Equity fund value = 60% of Rs. 3,00,000 = Rs. 1,80,000. Debt fund value = 40% of Rs. 3,00,000 = Rs. 1,20,000. The two amounts total Rs. 3,00,000. This is an allocation calculation, not a recommendation that the split is suitable for every investor."
+  }
+]

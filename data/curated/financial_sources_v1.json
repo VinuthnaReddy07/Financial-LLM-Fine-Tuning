@@ -1,0 +1,117 @@
+[
+  {
+    "source_id": "RBI-RTGS-FAQ-2026-10",
+    "title": "RTGS System FAQs",
+    "publisher": "Reserve Bank of India",
+    "url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65",
+    "published_on": "2026-10-14",
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-01-30",
+    "topic": "Banking and financial products",
+    "retrieval_anchors": [
+      ["RTGS", "Real Time Gross Settlement", "NEFT", "National Electronic Funds Transfer"]
+    ],
+    "text": "The RBI FAQ describes NEFT transfers as processed in batches and RTGS transfers as continuously processed transaction by transaction. The FAQ page states it was updated on October 14, 2026. This excerpt does not establish a customer's bank-specific availability, charges, limits, or transaction outcome."
+  },
+  {
+    "source_id": "RBI-RTGS-FAQ-2026-10",
+    "title": "RTGS System FAQs",
+    "publisher": "Reserve Bank of India",
+    "url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65",
+    "published_on": "2026-10-14",
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-01-30",
+    "topic": "Banking and financial products",
+    "retrieval_anchors": [
+      ["RTGS"],
+      ["beneficiary account number", "beneficiary details", "remittance instruction"]
+    ],
+    "text": "The RBI RTGS FAQ warns remitters to take extreme care when entering the beneficiary account number and says RTGS credit is given solely based on the account number provided in the remittance instruction. Verify beneficiary details with the bank before sending funds."
+  },
+  {
+    "source_id": "SEBI-INVESTOR-HOME-2026-11",
+    "title": "SEBI Investor Website: Learn to Manage Your Money",
+    "publisher": "Securities and Exchange Board of India",
+    "url": "https://investor.sebi.gov.in/",
+    "published_on": null,
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-02-01",
+    "topic": "Investment risk and analysis",
+    "retrieval_anchors": [
+      ["investment fraud", "fraud", "scam", "regulated investment product", "regulated products", "investor awareness"]
+    ],
+    "text": "SEBI's investor website presents investor education on money management, investments, and securities markets. Its visible investor-awareness message says: understand before investing, choose regulated investment products, start early, stay invested, and beware of investment frauds. This is general education, not an endorsement or individualized recommendation."
+  },
+  {
+    "source_id": "SEBI-INVESTOR-HOME-2026-11",
+    "title": "SEBI Investor Website: Learn to Manage Your Money",
+    "publisher": "Securities and Exchange Board of India",
+    "url": "https://investor.sebi.gov.in/",
+    "published_on": null,
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-02-01",
+    "topic": "Stocks and market fundamentals",
+    "retrieval_anchors": [
+      ["securities market", "securities-market", "investment avenue", "investment avenues"]
+    ],
+    "text": "SEBI's investor website provides learning material about securities-market investment avenues and investor awareness. A general educational page does not determine whether a security is suitable, safe, or appropriate for a particular person."
+  },
+  {
+    "source_id": "ITD-PORTAL-2026-10",
+    "title": "Income Tax Department e-Filing Portal",
+    "publisher": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/",
+    "published_on": "2026-10-27",
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2026-11-30",
+    "topic": "Insurance and taxation",
+    "retrieval_anchors": [
+      ["integrated payment module", "FY 2025-26", "Tax Year 2026-27", "Income-tax Act, 2025", "Income-tax Act, 1961"]
+    ],
+    "text": "The Income Tax Department portal announced on October 27, 2026 that its integrated payment module supports dues under the Income-tax Act, 1961 for FY 2025-26 and under the Income-tax Act, 2025 for Tax Year 2026-27 onwards. This is a dated portal notice, not tax advice; tax treatment depends on the person's facts and applicable current law."
+  },
+  {
+    "source_id": "ITD-PORTAL-2026-10",
+    "title": "Income Tax Department e-Filing Portal",
+    "publisher": "Income Tax Department, Government of India",
+    "url": "https://www.incometax.gov.in/iec/foportal/",
+    "published_on": "2026-10-27",
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2026-11-30",
+    "topic": "Insurance and taxation",
+    "retrieval_anchors": [
+      ["e-filing portal", "filing returns", "tax forms", "tax rates", "tax eligibility", "tax deadlines", "tax deadline"]
+    ],
+    "text": "The Income Tax Department identifies its e-Filing Portal as the official website for e-filing returns and forms and related functionalities. Tax forms, rates, eligibility, and deadlines can change; confirm the relevant tax year and facts on the official portal or with a qualified tax professional."
+  },
+  {
+    "source_id": "IRDAI-POLICYHOLDER-FAQ-2026-11",
+    "title": "Policyholder FAQs",
+    "publisher": "Insurance Regulatory and Development Authority of India",
+    "url": "https://policyholder.gov.in/",
+    "published_on": null,
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-02-01",
+    "topic": "Insurance and taxation",
+    "retrieval_anchors": [
+      ["health insurance", "medical expenses", "health care costs"],
+      ["premium", "policy wording", "covered"]
+    ],
+    "text": "The IRDAI policyholder FAQ describes health insurance as cover for medical expenses under a contract in which the insurer provides specified cover for a premium. It says the type and amount of healthcare costs covered are specified in advance. A particular policy's wording, schedule, exclusions, limits, and conditions determine coverage."
+  },
+  {
+    "source_id": "IRDAI-POLICYHOLDER-FAQ-2026-11",
+    "title": "Policyholder FAQs",
+    "publisher": "Insurance Regulatory and Development Authority of India",
+    "url": "https://policyholder.gov.in/",
+    "published_on": null,
+    "retrieved_on": "2026-11-01",
+    "review_due_on": "2027-02-01",
+    "topic": "Insurance and taxation",
+    "retrieval_anchors": [
+      ["exclusion", "exclusions", "what is not covered"],
+      ["policy prospectus", "policy wording"]
+    ],
+    "text": "The IRDAI policyholder FAQ advises readers to read the prospectus or policy and understand what is not covered. The applicable policy defines coverage and exclusions; do not infer that a treatment or claim is covered from a general description."
+  }
+]
